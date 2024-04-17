@@ -1,3 +1,3 @@
 # Tic Tac Toe Game
 
-This project is created by Gopal Sharma
+This project is created by Gopal Sharma.
